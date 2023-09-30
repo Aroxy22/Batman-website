@@ -1,0 +1,146 @@
+.responsive {
+    width: 100%;
+    
+  }
+  .text-container{
+    position: absolute;
+    top:2em;
+    left:60rem;
+    padding: 0 1rem;
+
+    color:rgb(37, 37, 103);
+    font-family: 'Pixelify Sans', cursive;
+  }
+  #second-div{
+    display:flex;
+   height: 400px;
+
+  align-items: center;
+justify-content: center;
+height: 50vh;
+  }
+  .image
+  {
+    border-radius: 120%;
+  }
+  p{
+    color: black;
+    font-family: 'Pixelify Sans', cursive;
+    margin: 200px;
+    text-align: center;
+  }
+  #oknow{
+    display: flex;
+    justify-content: left;
+  }
+  #doit
+  {
+    font-size: xx-large;
+  }
+  #third-div{
+    background-color: rgb(203, 202, 202);
+    height: 320px;
+    margin-top: 50px;
+    
+  }
+  #chfeat{
+    display: flex;
+    justify-content: left;
+    color: black;
+    font-family: 'Pixelify Sans', cursive;
+   margin-top: 50px;
+   text-align: left;
+   margin-left: 200px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+ }
+ .inside{
+    text-align: left;
+  margin: 0;
+  margin-left: 40px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ #griddiv{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr ;
+    grid-template-columns: 1fr 2fr 1fr 1fr ;
+    
+ }
+ #marg1
+ {
+    margin-bottom: 40px;
+ }
+ #fourth-div{
+    height: 400px;
+    margin-top: 50px;
+ }
+ #rchar{
+    font-family: 'Pixelify Sans', cursive;
+    margin-left: 200px;
+    padding-top: 20px;
+ }
+ #secgrid{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+ }
+ #firstcap{
+    text-align: left;
+    margin: 0;
+ }
+ #secondcap
+ {
+    text-align: left;
+    margin: 0;
+ }
+ #thirdcap{
+    text-align: left;
+    margin: 0;
+ }
+ .carousel-inner
+ {
+    margin-top: 100px;
+    
+ }
+ #featid{
+margin-top: 200px;
+    font-family: 'Pixelify Sans', cursive;
+    margin-left: 200px;
+ }
+
+ #cid
+ {
+    font-family: 'Pixelify Sans', cursive;
+    margin-top: 110px;
+    margin-left: 200px;
+    font-size: xx-large;
+    color: white;
+    margin-bottom: 40px;
+ }
+
+ #footer{
+    background-color: rgb(26, 26, 43);
+    height: 160px;
+   
+ }
+ #ref{
+    font-family: 'Pixelify Sans', cursive;
+    color: white;
+    margin-left: 200px;
+    
+ }
+ #phn{
+    text-align: left;
+    color: white;
+ }
+ #last{
+    background-color: rgb(26, 26, 43);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ h2{
+    font-family: 'Pixelify Sans', cursive;
+    margin-left: 520px;
+ }
